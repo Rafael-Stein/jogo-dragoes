@@ -1,5 +1,5 @@
 <?php include('assets/header.php'); ?>
-<section id="empresa" class="mb-5">
+<section class="mb-5">
   <h2>O que é RPG (Roleplaying Game)</h2>
   <p>Hoje em dia é muito fácil saber o que significa RPG basta pesquisar na internet, mas em meado dos anos 90, essa possibilidade não existia e a divulgação era algo totalmente no “boca a boca”. Nascido em 1974, nos EUA, uma nova forma de lazer, um jogo que instigava a imaginação e a criatividade, que daí então, não parou de ganhar adeptos. Legiões de jovens, adolescentes e adultos, que escolheram esse tipo de divertimento, passaram a contar histórias, onde cada participante vivia uma história, sem ter que se preocupar em obedecer a uma posição apenas passiva, sendo parte eles mesmos os atores e roteirista, de uma peça teatral que ainda não havia sido concluída.</p>
   <h2>Como funciona uma partida de RPG?</h2>
