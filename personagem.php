@@ -1,5 +1,5 @@
 <?php include ('assets/header.php'); ?>
-<section id="empresa" class="mb-5">
+<section class="mb-5">
   <h2>Criação de Personagem</h2>
     <p>O jogo se inicia, em uma das mais importantes etapas, a criação do seu personagem. O mestre irá definir que tipo de aventura irá propor, e através dessa decisão, você e seus amigos irão distribuir os pontos que receberam para criar e melhorar seus personagens, sejam elas adquirindo mais atributos ou habilidades, ou mesmo, que grupo de vantagens e desvantagens terão.</p>
     <p>Em uma campanha normal em “OS REINOS DE ASPEN”, 12 pontos iniciais de atributos são dados aos jogadores para distribuir aos seus personagens, guarde esse número na cabeça. Se o mestre quiser aumentar, recomenda-se um aumento de seis em seis pontos, ficando 18, 24, etc. O jogador irá escolher primeiramente a raça ao qual irá querer jogar, nesse ponto o mestre também tem participação, pois pode restringir ou liberar alguma classe de poder específica (ver mais adiante). Como nesse Módulo Básico, vamos tratar também do primeiro cenário de jogo, “Os Sete Paraísos Celestiais”, é pertinente que possamos utilizar qualquer raça comum até nível mágico e usar qualquer uma das sete variações da raça de Amazonas, que são seres exclusivos de Classe de Poder Celestial, para nosso modelo de criação, usaremos as Amazonas de Prata, que vamos chamar de Auris.</p>
